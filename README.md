@@ -51,8 +51,3 @@ component that links the index 'Algolia Favorite Tracks'.
 - Click 'play' next to desired song
 - The currently playing song will update
 - Search again using any query you'd like! 
-
-
->>>>>>> Adding Algolia Search On Spoitfy App
->>>>>>> Adding Algolia Search On Spoitfy App
-
