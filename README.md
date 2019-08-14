@@ -1,4 +1,4 @@
-# Algolia Assignment Repo
+# Algolia <> Spotify Integration 
 
 The Data
 
